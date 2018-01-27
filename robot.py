@@ -2,7 +2,6 @@
 # Python3 Robot code: Rhino Bot "Untitled"
 # 2017 - 4480 "Forty48ie" "UC-Botics"
 
-
 import wpilib
 import wpilib.buttons
 from robotpy_ext.autonomous import AutonomousModeSelector
